@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game 5 - Diamond Box</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-wrap">
+    <h2>Game 5: Diamond Box (Limit 2/day)</h2>
+    <button onclick="playGame5()">Open Box</button>
+    <p id="result"></p>
+    <a href="index.html">⬅ Back</a>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
