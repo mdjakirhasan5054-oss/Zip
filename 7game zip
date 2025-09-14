@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game 6 - যোগ-বিয়োগ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-wrap">
+    <h2>Game 6: যোগ-বিয়োগ (Limit 5/day)</h2>
+    <button onclick="playGame6()">Start</button>
+    <p id="result"></p>
+    <a href="index.html">⬅ Back</a>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
